@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor backups / temp
+*.swp
+*~
+*.bak
+*.tmp
+
+# PyInstaller build folders (αν τα χρησιμοποιήσεις)
+build/
+dist/
+
+# Virtual environments (αν έχεις)
+env/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup / temp εικόνες (αν θες)
+*.png~
+*.kra~
+
+# IDE / Editor settings (π.χ. VSCode)
+.vscode/
+.idea/
+
+# Logs
+*.log
