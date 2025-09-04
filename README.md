@@ -95,19 +95,20 @@ python game.py
    │
 [Entities] ── sprite components (character, Mary, stickfigure)
 ```
-## Demo / Playground
+## ⚠️ Demo / Experimental Playground
 
-The included demo scripts (`game.py` / `game2.py`) show a **very experimental version** of the engine:
+The included demo scripts (`game.py` / `game2.py`) **show a highly experimental version of the engine**. Use at your own risk:
 
-- The **main character can roam freely**; enemies are static and don’t do anything.  
-- A **“Click Me” button** appears in a random location and barely does anything.  
-- **Flashlight system** works, reacting dynamically to the mouse/player position.  
-- **Projectile physics** are functional — press **Space** to see debug mode in action.  
-- **Camera system is in progress** — some behaviors may not be fully implemented yet.  
-- **Scenes, entities, UI, lighting, and simple physics** are demonstrated.  
-- The **`assets/`** folder contains some basic images and fonts preloaded — not a polished demo, just enough to get things running.
+- The **main character can move freely**; enemies are static and do not act.  
+- A **“Click Me” button** appears at random locations and has minimal effect.  
+- **Flashlight system** works and dynamically responds to the mouse/player position.  
+- **Projectile physics** are active — press **Space** to enable debug mode.  
+- **Camera system is unfinished** — behavior may be inconsistent or incomplete.  
+- **Scenes, entities, UI, lighting, and simple physics** are included for demonstration.  
+- The **`assets/`** folder contains only basic resources needed to run the demo; not polished or production-ready.
 
-> ⚠️ This is a playground, not a polished demo. Everything is experimental and intended for exploration — feel free to experiment, break stuff, and learn from it.
+> ⚠️ **Warning:** This is an experimental playground. The engine and demo are not stable, features may change, and assets are included only for testing. Proceed with caution.
+
 ### Core Modules
 
 - **`system/abstract_scene.py` → `AbstractScene`**
