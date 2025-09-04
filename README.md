@@ -211,6 +211,19 @@ button = Button(
 ```
 
 ---
+## Demo / Playground
+
+The included demo scripts (`game.py` / `game2.py`) show a **very experimental version** of the engine:
+
+- The **main character can roam freely**; enemies are static and don’t do anything.  
+- A **“Click Me” button** appears in a random location and barely does anything.  
+- **Flashlight system** works, reacting dynamically to the mouse/player position.  
+- **Projectile physics** are functional — press **Space** to see debug mode in action.  
+- **Camera system is in progress** — some behaviors may not be fully implemented yet.  
+- **Scenes, entities, UI, lighting, and simple physics** are demonstrated.  
+- The **`assets/`** folder contains some basic images and fonts preloaded — not a polished demo, just enough to get things running.
+
+> ⚠️ This is a playground, not a polished demo. Everything is experimental and intended for exploration — feel free to experiment, break stuff, and learn from it.
 
 ## Example: Flashlight (SpotLight) + Radial Glow
 
