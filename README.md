@@ -108,6 +108,7 @@ The included demo scripts (`game.py` / `game2.py`) **show a highly experimental 
 - The **`assets/`** folder contains only basic resources needed to run the demo; not polished or production-ready.
 
 > ⚠️ **Warning:** This is an experimental playground. The engine and demo are not stable, features may change, and assets are included only for testing. Proceed with caution.
+---
 
 ### Core Modules
 
