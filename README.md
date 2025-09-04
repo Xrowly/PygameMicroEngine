@@ -269,7 +269,7 @@ overlay.blit(glow, (420, 290), special_flags=pygame.BLEND_RGBA_SUB)
 ## License / Credits
 
 - **Font**: *Creepster* — see `assets/fonts/OFL.txt` (SIL Open Font License).
-- **Code**: Consider adding a `LICENSE` (e.g., MIT) at the root if you want it open-source.
+- **Code**: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
