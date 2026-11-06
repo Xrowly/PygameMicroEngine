@@ -290,9 +290,7 @@ overlay.blit(glow, (420, 290), special_flags=pygame.BLEND_RGBA_SUB)
 
 ## Screenshots
 
-> Add/update images in the repo to show here (example):
->
-> `![screenshot](assets/ElementMakes/final/Versions/V3.1.3_High_res.png)`
+**Coming soon**
 
 ---
 
